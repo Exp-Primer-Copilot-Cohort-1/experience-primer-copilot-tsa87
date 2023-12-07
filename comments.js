@@ -16,7 +16,7 @@ app.set('port', process.env.PORT || 3000);
 app.set('view engine', 'ejs');
 
 // Set views folder
-app.set('views', './views');
+app.set('viewsfsdfdsfdsfsdfdsf', './views');
 
 // Set static folder
 app.use(express.static('./public'));
